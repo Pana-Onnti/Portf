@@ -1,6 +1,6 @@
 body{
     position: relative;
-    height: 1000px;
+
 }
 
 .asd3{
@@ -44,16 +44,38 @@ body{
     letter-spacing: 0.035em;
 
     color: #F5F5F5;
-    
-    
+
+
     filter: blur(2px);
 }
 
 img{
     border-radius: 999999999px;
-    border:1px solid #FFC700 ;
+    border:3px solid #FFC700 ;
     padding: 10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
+
+.divisor{
+  align-items: center;
+  text-align: center;
+  margin-top: -4%;
+  padding-bottom: 3%;
+
+}
+h1{
+  font-family: 'Julius Sans One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 65px;
+  letter-spacing: 0.055em;
+
+  color: #F5F5F5;
+
+}
+
+
